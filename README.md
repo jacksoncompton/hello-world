@@ -1,2 +1,3 @@
 # hello-world
 I'm just going through the tutorial...
+I'm just learning how to use GitHub because hopefully I'll someday be able to understand all this coding craziness that runs our world today.
